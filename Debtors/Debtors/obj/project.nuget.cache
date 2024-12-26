@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NGPHQ9Ugpfo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DNS\\source\\repos\\Debtors\\Debtors\\Debtors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DNS\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\DNS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\DNS\\.nuget\\packages\\system.windows.extensions\\9.0.0\\system.windows.extensions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
