@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="README.txt" />
+  </Folder>
+  <Project Path="AbstractFactory/AbstractFactory.csproj" Id="4dcbd12f-6c63-4386-8f89-ff535ffbfd77" />
+  <Project Path="Adapter/Adapter.csproj" Id="6765de60-ac1e-43dc-8942-ee5ca67871a9" />
+  <Project Path="Builder/Builder.csproj" Id="e51ac047-f503-459e-a477-6d80e422fe05" />
+  <Project Path="ChainOfResponsibility/ChainOfResponsibility.csproj" Id="258f7810-beea-4554-a1b7-518df8fa7f54" />
+  <Project Path="Decorator/Decorator.csproj" Id="36cff700-6bba-49b3-a33d-bad4feabccab" />
+  <Project Path="FactoryMethod/FactoryMethod.csproj" Id="e9496037-7e47-48c5-bedd-99749b3644b4" />
+  <Project Path="Iterator/Iterator.csproj" Id="bf11c0f3-ec36-4733-9789-e7ca7e7acbf7" />
+  <Project Path="Observer/Observer.csproj" Id="04c2fcdb-2c39-4919-86a0-61d563b60cb3" />
+  <Project Path="Singleton/Singleton.csproj" Id="e5f2d266-31b4-414f-baa8-472fe97e2877" />
+  <Project Path="Strategy/Strategy.csproj" Id="102e3ac8-ebb2-4841-99a9-2e4882a5079b" />
+</Solution>
